@@ -1,0 +1,24 @@
+🚀 Hugging Face Upload Test File
+
+Đây là file demo để test chức năng upload lên Hugging Face Hub.
+
+Thông tin file:
+- Tên: demo.txt
+- Kích thước: Nhỏ
+- Mục đích: Test upload functionality
+- Thời gian tạo: May 31, 2025
+
+Các tính năng đã test:
+✅ Upload từ drag & drop
+✅ Upload từ file selector
+✅ Hiển thị progress bar
+✅ Tạo repository mới
+✅ Quản lý multiple files
+✅ Error handling
+
+Kết quả mong đợi:
+- File này sẽ được upload lên Hugging Face
+- Hiển thị link để xem file
+- Trạng thái "Hoàn thành" màu xanh
+
+Test thành công! 🎉
